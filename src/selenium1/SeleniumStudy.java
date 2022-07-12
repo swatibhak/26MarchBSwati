@@ -11,6 +11,7 @@ public class SeleniumStudy {
 		driver.manage().window().maximize();
 		driver.get("https://vctcpune.com/");
 		Thread.sleep(1000);
+		System.out.println("this is my Code");
 	}
 
 }
