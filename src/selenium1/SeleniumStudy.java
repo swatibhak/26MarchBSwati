@@ -12,6 +12,7 @@ public class SeleniumStudy {
 		driver.get("https://vctcpune.com/");
 		Thread.sleep(1000);
 		System.out.println("this is my Code");
+		System.out.println("hi am swt");
 	}
 
 }
